@@ -1,2 +1,2 @@
-# JavaScript_Inter_Vari-veis_e_Tipos
+# JavaScript_Inter_Variaveis_e_Tipos
 Variáveis e Tipos da Inter
